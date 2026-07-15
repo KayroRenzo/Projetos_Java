@@ -8,9 +8,9 @@ Esta pasta contém meus projetos desenvolvidos aplicando **Programação Orienta
 
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|-------------|
-| **sistemaBiblioteca** | Sistema de gerenciamento de biblioteca com usuários, livros e empréstimos | POO, HashSet, HashMap, MVC |
-| **sistemaBancario** | Sistema de gerenciamento bancário com contas e transações | POO, Herança, Exceções, MVC |
-| **lojaOnline** | Sistema de gerenciamento de loja com produtos e carrinho | POO, Collections, MVC |
+| **Sistema Biblioteca** | Sistema de gerenciamento de biblioteca com usuários, livros e empréstimos | POO, HashSet, HashMap, MVC |
+| **Sistema Bancario** | Sistema de gerenciamento bancário com contas e transações | POO, Herança, Exceções, MVC |
+| **Loja Online** | Sistema de gerenciamento de loja com produtos e carrinho | POO, Collections, MVC |
 
 ---
 
