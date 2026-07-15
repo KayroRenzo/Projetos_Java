@@ -1,30 +1,23 @@
 ```markdown
-# 📚 Sistema de Biblioteca
+# 🛒 Sistema de Loja
 
-Sistema completo para gerenciamento de biblioteca, desenvolvido em Java com POO e MVC.
+Sistema para gerenciar produtos, estoque e vendas, desenvolvido em Java com POO e MVC.
 
 ---
 
 ## 🎯 Funcionalidades
 
-### 👤 Usuários
-- Cadastrar usuários
-- Editar usuários
-- Excluir usuários
-- Listar usuários
+### 📦 Produtos
+- Cadastrar produtos
+- Editar produtos
+- Excluir produtos
+- Listar produtos
 
-### 📖 Livros
-- Cadastrar livros
-- Editar livros
-- Excluir livros
-- Listar livros
-- Procurar livros por nome
-
-### 📋 Empréstimos
-- Fazer empréstimos (máximo 3 por usuário)
-- Devolver livros
-- Listar empréstimos pendentes
-- Listar empréstimos atrasados
+### 🛍️ Carrinho de Compras
+- Adicionar produtos ao carrinho
+- Remover produtos do carrinho
+- Calcular total da compra
+- Finalizar compra
 
 ---
 
@@ -34,8 +27,8 @@ Sistema completo para gerenciamento de biblioteca, desenvolvido em Java com POO 
 |------------|-----------|
 | Java 17 | Linguagem de programação |
 | POO | Programação Orientada a Objetos |
-| HashSet | Armazenamento de usuários |
-| HashMap | Armazenamento de livros |
+| Collections | HashMap, ArrayList |
+| MVC | Model-View-Controller |
 
 ---
 
@@ -45,6 +38,3 @@ Sistema completo para gerenciamento de biblioteca, desenvolvido em Java com POO 
 cd src
 javac Main.java
 java Main
-| MVC | Model-View-Controller |
-
----
